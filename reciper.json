@@ -1,0 +1,9 @@
+{
+  "name": "无锅指南",
+  "description": "系统稳定性提升手册，教你如何做出不出锅的系统",
+  "logoUrl": "/nowok/icon.svg",
+  "items": [
+    { "text": "最佳实践", "href": "/nowok/best-practice/" },
+    { "text": "GitHub", "href": "https://github.com/YanagiEiichi/nowok" }
+  ]
+}

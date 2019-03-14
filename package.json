@@ -1,0 +1,11 @@
+{
+  "name": "nowok",
+  "private": true,
+  "faas": {
+    "domain": "nowok",
+    "public": ".",
+    "description": "无锅指南",
+    "author_name": "无锅",
+    "author_email": "rongyi.lry@alibaba-inc.com"
+  }
+}
